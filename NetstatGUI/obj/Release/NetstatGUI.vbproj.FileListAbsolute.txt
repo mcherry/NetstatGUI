@@ -1,0 +1,39 @@
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.exe
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.pdb
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.xml
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmMain.resources
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.Resources.resources
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.vbproj.GenerateResource.Cache
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.exe
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.xml
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.pdb
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.exe.config
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.exe.config
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmMain.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.pdb
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmInfo.resources
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmAbout.resources
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmConsole.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmAbout.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmConsole.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmInfo.resources
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.exe.manifest
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.application
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.TrustInfo.xml
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.exe.manifest
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.application
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\bin\Release\NetstatGUI.application
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.TrustInfo.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.application
+C:\Documents and Settings\mcherry\My Documents\Visual Studio 2008\Projects\NetstatGUI\NetstatGUI\obj\Release\NetstatGUI.frmLaunchCmd.resources
